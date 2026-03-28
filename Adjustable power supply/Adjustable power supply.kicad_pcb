@@ -2182,6 +2182,22 @@
 		)
 	)
 	(segment
+		(start 142.24 62.23)
+		(end 142.24 60.96)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 0)
+		(uuid "05577ff4-5a26-4b34-b849-b83b1933a437")
+	)
+	(segment
+		(start 142.24 60.96)
+		(end 144.145 59.055)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 0)
+		(uuid "525f154b-dded-47af-bb6a-c2f0f889d3d0")
+	)
+	(segment
 		(start 113 52.75)
 		(end 113.25 53)
 		(width 0.2)
