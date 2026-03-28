@@ -2156,7 +2156,7 @@
 		)
 	)
 	(gr_text "Adjustable Power supply"
-		(at 101.6 74.93 -0)
+		(at 101.6 74.93 0)
 		(layer "B.Cu")
 		(uuid "39eeb7fc-459b-429e-9467-7b22ca9a44b2")
 		(effects
@@ -2165,7 +2165,7 @@
 				(thickness 0.3)
 				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify left bottom)
 		)
 	)
 	(gr_text "Vout"
@@ -2180,22 +2180,6 @@
 			)
 			(justify left bottom mirror)
 		)
-	)
-	(segment
-		(start 142.24 62.23)
-		(end 142.24 60.96)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 0)
-		(uuid "05577ff4-5a26-4b34-b849-b83b1933a437")
-	)
-	(segment
-		(start 142.24 60.96)
-		(end 144.145 59.055)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 0)
-		(uuid "525f154b-dded-47af-bb6a-c2f0f889d3d0")
 	)
 	(segment
 		(start 113 52.75)
